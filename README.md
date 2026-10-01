@@ -1,17 +1,23 @@
-[![Curso Ninja JavaScript - Da2k](https://cloud.githubusercontent.com/assets/487669/6239059/58b94ab0-b6e7-11e4-8e5d-a5f2740870fd.png)](https://www.udemy.com/curso-javascript-ninja/?couponCode=JSNINJA)
+# JavaScript Ninja — Estudos e Exercícios
 
-# Curso JavaScript Ninja
+Repositório criado durante meus estudos de JavaScript em 2020.
 
-[Inscreva-se agora mesmo e ganhe 10% de desconto!](https://www.udemy.com/curso-javascript-ninja/?couponCode=JSNINJA)
+O projeto reúne exercícios práticos desenvolvidos para explorar os fundamentos da linguagem, praticar lógica de programação e compreender os principais recursos do JavaScript.
 
-## Como tirar dúvidas sobre o conteúdo do curso
+## Conteúdo
 
-- Acesse a página de [issues](https://github.com/da2k/curso-javascript-ninja/issues);
-- Pesquise nas _issues_ abertas e fechadas, se a mesma dúvida já foi postada;
-- Se não foi, crie uma nova _issue_, coloque um título que tenha a ver com a sua dúvida, e descreva-a com o maior nível de detalhes possíveis, para que possamos te ajudar :)
+* Fundamentos da linguagem JavaScript.
+* Variáveis, tipos de dados e operadores.
+* Funções e estruturas de controle.
+* Arrays e objetos.
+* Manipulação de dados e resolução de exercícios.
+* Outros exemplos práticos desenvolvidos durante o curso.
 
-## Sumário
+## Tecnologias
 
-Veja o sumário completo do curso [aqui](summary.md).
+* JavaScript
+* HTML5 e CSS3, quando aplicáveis aos exercícios.
 
-Aproveite o curso! :D
+## Observações
+
+Este repositório tem finalidade educacional e registra parte dos meus estudos de JavaScript realizados em 2020. Os exercícios representam práticas de aprendizagem e experimentação com a linguagem.
